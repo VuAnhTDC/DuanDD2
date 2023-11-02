@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "580758992357",
+    "firebase_url": "https://firebassdd2-default-rtdb.firebaseio.com",
+    "project_id": "firebassdd2",
+    "storage_bucket": "firebassdd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580758992357:android:d931510a5f7bfae10bab0c",
+        "android_client_info": {
+          "package_name": "com.example.duandd2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoslKwbKrfFaeKnw9ac10o_hQel42QeeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580758992357:android:c5eada4effc95c8b0bab0c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoslKwbKrfFaeKnw9ac10o_hQel42QeeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
